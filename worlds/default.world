@@ -1,0 +1,41 @@
+#DPC
+This is the default area, please do not modify it. It SHOULD be error free!
+#header
+Default World
+TheASP
+
+#room
+1
+The VERY First Room
+This is the very, VERY first room. There is no room that was made before this. The gods that created this room were rushed, so obviously it is plain, hardly a room.
+2
+0
+0
+0
+
+#room
+2
+The second room
+And there was light! WooHoo!
+4
+0
+1
+0
+
+#room
+4
+A small house
+You are in a small house. Obviously a gardener owns it as it is full of all kinds of plants, plant books, and plant tools.
+0
+0
+0
+0
+
+#room
+3
+Floating in the void
+You are floating in the void, detached from all physical sensation. To the west you see the faint image of the very first room.
+0
+0
+0
+1
